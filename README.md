@@ -1,11 +1,14 @@
 <p align="center">
   <h1 align="center">MK_RN_MOVIES</h1>
-  <hr/>
   <p>MK_RN_MOVIES is the Cross-Platform Application. This application is shows you latest, and trending movies list </p>
 </p>
 
-Not sure where to start?
+# Note :- 
+1. Currently This Application Works only as mobile application.
+2. Currently this app is tessted only for Android mobile devices. If you want to use this application for IOS Mobile devices you need to configure all that dependencies in IOS.
+3. Currently I embbed this music file in this application, you can find them in [**src/assets/audio**] directory.
 
+# Not sure where to start?
 1. Getting Started.
 2. Library / Dependencies Lists that are used in this project.
 3. Project Structure.
